@@ -1,0 +1,1 @@
+# SpatialSamplingOptimizationStrategy
